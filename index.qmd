@@ -1,0 +1,101 @@
+---
+format: 
+    html:
+        title-block-style: none
+        backgroundcolor: "#33302c"
+        fontcolor: "#91848c"
+css: style/style.css
+---
+
+:::{.big-text .text-center}
+Ein Tag mit zwei Gestörten...
+:::
+
+::: {.grid .column-screen}
+
+::: {.g-col-4}
+![](img/kite_color.png){width="50%" fig-align="center"}
+
+:::{.text-center .middle-text}
+Drachen steigen lassen
+:::
+
+:::
+
+::: {.g-col-4}
+![](img/canoe_color.png){width="70%" fig-align="center"}
+
+:::{.text-center .middle-text}
+Kanu fahren
+:::
+
+:::
+
+::: {.g-col-4}
+![](img/tandem_rose.png){width="100%" fig-align="center"}
+
+:::{.text-center .middle-text}
+Tandem fahren
+:::
+
+:::
+
+:::
+
+:::{.big-text .text-center}
+...und Du bist dabei!!!
+:::
+
+::: {.grid .column-screen}
+
+::: {.g-col-4}
+![](img/fresse_side.png){width="70%" fig-align="center"}
+
+:::{.text-center .middle-text}
+Es drückt
+:::
+
+:::
+
+::: {.g-col-4}
+![](img/v_class_rear.jpeg){width="100%" fig-align="center"}
+
+:::{.text-center .middle-text}
+Unbegrenzte Kilometer
+:::
+
+:::
+
+::: {.g-col-4}
+![](img/ford_tourneo.jpg){width="100%" fig-align="center"}
+
+:::{.text-center .middle-text}
+Keine unnötigen Kilometer, Bitte!
+:::
+
+:::
+
+:::
+
+:::{.big-text .text-center}
+Nee Digga, wir schenken Dir...
+:::
+
+![](img/present.png){width="50%" fig-align="center"}
+
+:::{.column-screen}
+![](img/karting.jpg){fig-align="center"}
+:::
+
+:::{.column-screen}
+![](img/sb_night.jpeg){fig-align="center"}
+:::
+
+:::{.column-screen}
+![](img/sb_silo.jpg){fig-align="center"}
+:::
+
+:::{.big-text .text-center}
+...und Ja, wir sind ohne Begleitung unterwegs!!!
+:::
+
